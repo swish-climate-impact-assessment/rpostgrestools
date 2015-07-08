@@ -3,15 +3,15 @@
 #+email: ivan.hanigan@anu.edu.au
 #+LaTeX_CLASS: article
 #+LaTeX_CLASS_OPTIONS: [a4paper]
-#+LATEX: \tableofcontents
 -----
 
 * Downloads
 ** Windows
+- [[/downloads/rpostgrestools_1.0.zip][rpostgrestools\_1.0.zip]]
 
 
 ** Linux
-#+begin_src R :session *shell* :tangle code/linux.R :exports none :eval no
+#+begin_src R :session *R* :eval no 
 R
 devtools::install_github("ivanhanigan/rpostgrestools")
 #+end_src
