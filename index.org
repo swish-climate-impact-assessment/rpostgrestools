@@ -1,0 +1,17 @@
+#+TITLE:R Postgres Tools 
+#+AUTHOR: Ivan Hanigan
+#+email: ivan.hanigan@anu.edu.au
+#+LaTeX_CLASS: article
+#+LaTeX_CLASS_OPTIONS: [a4paper]
+#+LATEX: \tableofcontents
+-----
+
+* Downloads
+** Windows
+
+
+** Linux
+#+begin_src R :session *shell* :tangle code/linux.R :exports none :eval no
+R
+devtools::install_github("ivanhanigan/rpostgrestools")
+#+end_src
