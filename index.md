@@ -2,13 +2,15 @@
 title: rpostgrestools
 ---
 
+# DESCRIPTION
+
 * Package: rpostgrestools
 * Type: Package
 * Title: manipulate postgres from R
 * Version: 1.0
 * Date: 2013-05-31
 * Author: ivanhanigan
-* Maintainer: <ivan.hanigan@gmail.com>
+* Maintainer: ivan.hanigan@gmail.com
 * Depends: RPostgreSQL, fgui
 * Description: manipulate postgres from R
 * License: GPL (>= 2)
